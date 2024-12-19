@@ -2,7 +2,7 @@
 #### Ace Coding Interview with 75 Qs
 
 ![Alt text](img/Leetcode.png)
-![First Step](img/Array_String.png)
+<img src="img/Array_String.png" style="width:100%; display:flex;">
 
 
 # 1071. Greatest Common Divisor of Strings
